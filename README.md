@@ -7,12 +7,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40" style="vertical-align:middle"/>&nbsp;
 - 🛠️ **I have some experience**
    - Java 
-   - Scala 
-   - OCaml 
+   - Angular
+   - Spring Framework
 - 🌱 **I am currently learning**
-  - Python 
-  - C++, HTML, CSS 
-  - Flask web framework 
+  - React
 - 📫 **How to reach me:**
   - Mail: balickimateusz00@gmail.com
 
